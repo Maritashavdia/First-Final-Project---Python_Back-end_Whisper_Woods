@@ -26,6 +26,6 @@ developed with Python.
 
 ## Room Types
 
-- Forest Deluxe - Rooms 101–110
-- Whisper Suite - Rooms 111–125
-- Garden Family Room - Rooms 126–133
+- Forest Deluxe - Rooms 101-110
+- Whisper Suite - Rooms 111-125
+- Garden Family Room - Rooms 126-133
